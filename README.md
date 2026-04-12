@@ -159,6 +159,3 @@ If you like this project:
 * Advanced ML models
 * Real-time data
 
----
-
-🔥 Built with passion using AI
