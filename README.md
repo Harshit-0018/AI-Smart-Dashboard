@@ -51,6 +51,7 @@ An intelligent AI-powered dashboard that goes beyond simple visualization by pro
 
 ## 📂 Project Structure
 
+```
 AI-Smart-Dashboard/
 │── app.py
 │── prediction.py
@@ -61,21 +62,20 @@ AI-Smart-Dashboard/
 │   ├── increasing.csv
 │   ├── decreasing.csv
 │   ├── anomaly.csv
+```
 
 ---
 
 ## 📊 Sample Datasets (Try Now 🚀)
 
-Download and test:
-
 📈 Increasing Trend
-👉 ./datasets/increasing.csv
+👉 [Download](./datasets/increasing.csv)
 
 📉 Decreasing Trend
-👉 ./datasets/decreasing.csv
+👉 [Download](./datasets/decreasing.csv)
 
 ⚠️ Anomaly Dataset
-👉 ./datasets/anomaly.csv
+👉 [Download](./datasets/anomaly.csv)
 
 ---
 
@@ -83,8 +83,10 @@ Download and test:
 
 ### 🧑‍💻 Run Locally
 
+```
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ---
 
@@ -134,11 +136,11 @@ You will see:
 
 ## 👨‍💻 Author
 
-Harshit Singh
+**Harshit Singh**
 
-LinkedIn: https://www.linkedin.com/in/harshitsinghnitc/
-GitHub: https://github.com/Harshit-0018
-Email: [harshitsingh8157@gmail.com](mailto:harshitsingh8157@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/harshitsinghnitc/)
+💻 [GitHub](https://github.com/Harshit-0018)
+📧 Email: [harshitsingh8157@gmail.com](mailto:harshitsingh8157@gmail.com)
 
 ---
 
