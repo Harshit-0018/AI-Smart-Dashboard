@@ -149,7 +149,6 @@ You will see:
 If you like this project:
 
 ⭐ Star the repo
-🚀 Share it
 
 ---
 
