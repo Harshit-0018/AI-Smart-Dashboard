@@ -79,6 +79,19 @@ AI-Smart-Dashboard/
 
 ---
 
+## Visualizations
+
+### Uploading CSV Files 
+<img width="1914" height="900" alt="image" src="https://github.com/user-attachments/assets/a970a13b-9a59-4b2c-a640-3bff48b27310" />
+
+### Data Analyse and Results
+<img width="1906" height="911" alt="image" src="https://github.com/user-attachments/assets/9d25a4cc-eb92-477e-b404-0f0e5403837d" />
+
+<img width="1884" height="785" alt="image" src="https://github.com/user-attachments/assets/00150e00-f78e-4654-bb61-15bc6ed5f943" />
+
+
+---
+
 ## ▶️ How to Use
 
 ### 🧑‍💻 Run Locally
