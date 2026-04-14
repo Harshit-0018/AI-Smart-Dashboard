@@ -159,10 +159,6 @@ You will see:
 
 ---
 
-## ⭐ Support
-
-If you like this project:
-
 ⭐ Star the repo
 
 ---
