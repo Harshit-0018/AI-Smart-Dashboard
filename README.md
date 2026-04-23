@@ -66,6 +66,11 @@ AI-Smart-Dashboard/
 
 ---
 
+## Architecture and Workflow
+
+<img width="1536" height="1024" alt="ChatGPT Image Apr 23, 2026, 01_49_23 PM" src="https://github.com/user-attachments/assets/e8a4dc54-a970-4e67-b64c-3d6af317e10a" />
+
+
 ## Sample Datasets
 
 Increasing Trend  
