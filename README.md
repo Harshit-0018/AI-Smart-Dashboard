@@ -157,9 +157,6 @@ You will see:
 💻 [GitHub](https://github.com/Harshit-0018)
 📧 Email: [harshitsingh8157@gmail.com](mailto:harshitsingh8157@gmail.com)
 
----
-
-⭐ Star the repo
 
 ---
 
